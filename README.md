@@ -2,7 +2,7 @@
 Pharmacy medicine supply Management System
 
 # login page:
-username : user | 
+username : admin | 
 password : pwd
 --------------------------
 1.Run Authorization Micro Service
