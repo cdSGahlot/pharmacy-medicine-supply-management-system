@@ -1,4 +1,4 @@
-# pharmacy-medicine-supply-management-system
+# pharmacy-medicine-supply-management-system (POD-3)
 Pharmacy medicine supply Management System
 
 # login page:
