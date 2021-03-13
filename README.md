@@ -13,4 +13,4 @@ password : pwd
 
 --> open chrome --> enter url : localhost:8081/
 
-if error in testing folder -> Right click on service -> Properties -> Java Build Path -> Add library -> Junit -> Select Junit 5 -> Finish
+if error in testing folder -> Right click on spring boot app -> Properties -> Java Build Path -> Add library -> Junit -> Select Junit 5 -> Finish
